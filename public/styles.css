@@ -1,0 +1,53 @@
+BODY{
+    background: #F5F5F5; /* цвет фона: WhiteSmoke */
+    margin: 0;
+    padding: 0;
+    font-size: 20px ;
+    font-family: Helvetica, serif;
+}
+
+H2 {
+    color: #696969;
+    font-size: 36px;
+    font-family: Helvetica, serif;
+    text-align: center;
+    margin-top: 30px;
+}
+
+H3 {
+    color: #696969;
+    font-size: 24px;
+    font-family: Helvetica, serif;
+    text-align: left;
+    margin-top: 5px;
+    margin-left: 50px;
+}
+
+H4 {
+    color: #696969;
+    font-size: 18px;
+    font-family: Helvetica, serif;
+    text-align: left;
+    margin-top: 5px;
+    margin-left: 50px;
+}
+
+H5 {
+    color: #9ACD32;
+    font-size: 22px;
+    font-family: Helvetica, serif;
+    text-align: left;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+p {
+    color: #696969;
+    font-size: 18px;
+    font-family: Helvetica, serif;
+    margin-top: 0;
+}
+
+
+
+
